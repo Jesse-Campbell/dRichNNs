@@ -1,4 +1,3 @@
-# dRichNNs
 Experimentation with neural networks to improve dRICH output classification
 
 Relevant Papers
